@@ -47,32 +47,21 @@
 🔭 <b>Currently Working On</b><br>
 Python Full-Stack Projects & AI-Based Applications  
 (Flask, MySQL)
-
 <br><br>
-
 👯 <b>Looking to Collaborate On</b><br>
 Python • AI/ML • Full-Stack Development • Open-Source Projects
-
 <br><br>
-
 🤔 <b>Looking for Help With</b><br>
 Advanced AI Models, System Optimization & Scalable Backend Design
-
 <br><br>
-
 🌱 <b>Currently Learning</b><br>
 Advanced Python, Deep Learning & Backend System Design
-
 <br><br>
-
 💬 <b>Ask Me About</b><br>
 Python • Flask • AI Voice Assistants • Chatbots • MySQL • Postman
-
 <br><br>
-
 ⚡ <b>Fun Fact</b><br>
 I love turning ideas into real-world working applications 🚀
-
 </td>
 </tr>
 </table>
