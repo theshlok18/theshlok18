@@ -33,20 +33,35 @@
 </p>
 
 <h2 align="center">💫 About Me</h2>
-
 <p align="center">
   <i>Learning AI, Backend & Automation — building real-world solutions 🚀</i>
 </p>
-
 <br>
-
 <table align="center">
 <tr>
 <td width="600">
-
 🔭 <b>Currently Working On</b><br>
-Python Full-Stack Projects & AI-Based Applications  
+<b>LODMatrix</b> – A C2C Online Logistics Platform  
+<br>
+Python Full-Stack & AI-Based Applications  
 (Flask, MySQL)
+<br><br>
+🚚 <b>Major Project</b><br>
+<b>LODMatrix (C2C Logistics Platform)</b><br>
+• Customer-to-Customer logistics system<br>
+• Smart order handling & backend workflows<br>
+• Scalable backend using Flask & MySQL<br>
+• Real-world logistics startup project<br>
+• 🔗 Project Preview:  
+<a href="https://loadmatrixteam.github.io/loadmatrix/" target="_blank">
+https://loadmatrixteam.github.io/loadmatrix/
+</a>
+<br><br>
+🎮 <b>Game Development Project</b><br>
+<b>F1 Racing Game</b> using <b>Pygame</b><br>
+• Car movement & controls<br>
+• Game loop & collision logic<br>
+• Python-based 2D racing mechanics
 <br><br>
 👯 <b>Looking to Collaborate On</b><br>
 Python • AI/ML • Full-Stack Development • Open-Source Projects
@@ -58,10 +73,11 @@ Advanced AI Models, System Optimization & Scalable Backend Design
 Advanced Python, Deep Learning & Backend System Design
 <br><br>
 💬 <b>Ask Me About</b><br>
-Python • Flask • AI Voice Assistants • Chatbots • MySQL • Postman
+Python • Flask • AI Voice Assistants • Chatbots • MySQL • Postman • Pygame
 <br><br>
 ⚡ <b>Fun Fact</b><br>
 I love turning ideas into real-world working applications 🚀
+
 </td>
 </tr>
 </table>
