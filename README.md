@@ -1,5 +1,4 @@
-<!-- Matrix Background Animation -->
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+<img src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="hello there"><br>
 
 <!-- Typing Header -->
 <p align="center">
