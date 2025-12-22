@@ -1,31 +1,32 @@
 <!-- Matrix Background Animation -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<!-- Greet Line Comes Here -->
-<p align="center">
-<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
-</p>
-
+<!-- Typing Header -->
 <p align="center">
   <a href="https://github.com/shloksathe18-dotcom">
     <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=BTech+CS+(Data+Science)+Student;Python+Full-Stack+Developer;AI+%26+ML+Enthusiast;Backend+%26+Automation+Developer&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45"
+      src="https://readme-typing-svg.herokuapp.com/?lines=BTech+CS+(Data+Science)+Student;Python+Full-Stack+Developer;AI+%26+ML+Enthusiast;Backend+%26+Automation+Developer&font=Poppins&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=42"
       alt="Typing SVG"
     />
   </a>
+</p>
+
+<!-- Second Typing Line (Multiple lines added) -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?lines=I+love+building+real-world+applications+🚀;Turning+ideas+into+working+solutions;Learning+AI,+Backend+%26+Automation&font=Poppins&center=true&width=900&height=100&color=9ecbff&vCenter=true&size=30"
+    alt="Typing SVG"
+  />
 </p>
 
 <!-- Animated Gif -->
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
-    width="90%" 
+    width="85%" 
     alt="coding gif"
   />
 </p>
-
-
-
 
 
 # 💫 About Me:
