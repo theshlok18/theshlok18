@@ -6,21 +6,23 @@
 <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
 </p>
 
-<!-- Intro -->
-<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
-
-<!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/tubakhxn">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Graphic%20Designer;CS%20Engineering;Flutter%20Development;Full%20Stack%20Development&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
+  <a href="https://github.com/shloksathe18-dotcom">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com/?lines=BTech+CS+(Data+Science)+Student;Python+Full-Stack+Developer;AI+%26+ML+Enthusiast;Backend+%26+Automation+Developer&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
 <!-- Animated Gif -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
+    width="90%" 
+    alt="coding gif"
+  />
 </p>
-
 
 
 
