@@ -1,4 +1,5 @@
-<img src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="hello there"><br>
+
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWFlY29iajhtZzNqaHB1aGc4dDVueTIwcTZ1dGozN3M3aXJxZmtreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fMA7I4pIO9qNZsjCSu/giphy.gif"                             alt="hello gif"><br>
 
 <!-- Typing Header -->
 <p align="center">
