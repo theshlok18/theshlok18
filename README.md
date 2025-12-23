@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/shloksathe18-dotcom">
     <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=BTech+CS+(Data+Science)+Student🎓;Python+Full-Stack+Developer💻;AI+%26+ML+Enthusiast🤖👾;Backend+%26+Automation+Developer🌐⚙&font=Poppins&center=true&width=1000&height=120&color=6e7681&vCenter=true&size=42"
+      src="https://readme-typing-svg.herokuapp.com/?lines=BTech+CS+(Data+Science)+Student🎓;Python+Full-Stack+Developer💻;AI+%26+ML+Enthusiast🤖👾;Backend+%26+Automation+Developer🌐⚙&font=Poppins&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=42"
       alt="Typing SVG"
     />
   </a>
@@ -19,17 +19,8 @@
 <!-- Second Typing Line (Multiple lines added) -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?lines=I+love+building+real-world+applications+🚀;Turning+ideas+into+working+solutions💫;Learning+AI,+Backend+%26+Automation⚡&font=Poppins&center=true&width=900&height=100&color=6e7681&vCenter=true&size=30"
+    src="https://readme-typing-svg.herokuapp.com/?lines=I+love+building+real-world+applications+🚀;Turning+ideas+into+working+solutions💫;Learning+AI,+Backend+%26+Automation⚡&font=Poppins&center=true&width=900&height=100&color=58a6ff&vCenter=true&size=30"
     alt="Typing SVG"
-  />
-</p>
-
-<!-- Animated Gif -->
-<p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
-    width="85%" 
-    alt="coding gif"
   />
 </p>
 
