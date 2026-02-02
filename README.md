@@ -35,6 +35,8 @@
 🔭 <b>Currently Working On</b><br>
 <b>LODMatrix</b> – A C2C Online Logistics Platform  
 <br>
+“Building OpenSkillX, a free learning platform
+  <br>
 Python Full-Stack & AI-Based Applications  
 (Flask, MySQL)
 <br><br>
