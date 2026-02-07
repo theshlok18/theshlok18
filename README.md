@@ -38,7 +38,7 @@
 “Building OpenSkillX, a free learning platform
   <br>
 Python Full-Stack & AI-Based Applications  
-(Flask, MySQL)
+(Flask, MYSQL)
 <br><br>
 🚚 <b>Major Project</b><br>
 <b>LODMatrix (C2C Logistics Platform)</b><br>
